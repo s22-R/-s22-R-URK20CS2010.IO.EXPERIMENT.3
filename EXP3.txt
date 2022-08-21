@@ -1,0 +1,221 @@
+<!DOCTYPE html> 
+<html> 
+  <head> 
+    <style>       .a {         background-color:rgba(21, 84, 95, 0.458);         text-align: center;         color: dark mint; 
+      }       ul {         background-color: rgba(124, 50, 132, 0.447); 
+         list-style-type: none; 
+      }        ul li {         display: inline-block; 
+         padding: 10px; 
+         text-align: center; 
+         width: 20%; 
+      }        ul li:hover {         background-color: rgba(159, 87, 23, 0.851); 
+      } 
+ 
+      .c { 
+        background-color: rgba(159, 87, 23, 0.851);         width: 40%;         padding: 10px;         border-style: dashed;         color: aliceblue; 
+      }       .b {         background-image: url("https://media.istockphoto.com/photos/tulip-field-
+during-sunrise-pictureid1280340854?b=1&k=20&m=1280340854&s=170667a&w=0&h=g5F4fW3VPPWUItb4BrC6_pJLjpzIJl
+t5D6WWlpuaKS0="); 
+      }       * {         padding: 10px; 
+      } 
+      .last {                 background-image: url("https://c4.wallpaperflare.com/wallpaper/960/274/566/nature-plants-spikeletswallpaper-preview.jpg"); 
+      } 
+    </style> 
+  </head> 
+  <body style="border: 2px black solid"> 
+    <div> 
+      <div class="a"> 
+        <img           src="https://images.pexels.com/photos/1548696/pexels-photo-
+1548696.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"           height="70"           width="70" 
+          style="float: left" 
+        /> 
+ 
+        <img           style="float: right; margin-bottom: 50px"           src="https://image.shutterstock.com/image-photo/kiev-ukraine-april-07-
+2019-260nw-1369979807.jpg"           alt="facebook"           height="2%"           width="5%" 
+        /> 
+        <p>Ms.SHARON</p> 
+      </div> 
+      <nav> 
+        <div> 
+          <ul> 
+            <li>Personal</li> 
+           <li>Academics</li> 
+           <li>Activity</li> 
+            <li>Others</li> 
+</ul> 
+</div> 
+      </nav> 
+      <div class="b"> 
+        <p class="c"> 
+          The height and width properties are used to set the <br />height and width of an element. <br />The height and width can be <br />set to auto or be specified in length values, <br />like px, cm, etc., or in percent (%) of the containing block. 
+        </p> 
+      </div> 
+      <div> 
+        <table style="word-spacing: 30px"> 
+          <tr> 
+            <th>               <img                 src="https://th.bing.com/th/id/OIP.Q-H2vvVR-4JY1xRBbWI84QHaDf?pid=ImgDet&rs=1"                 height="50"                 width="50" 
+              /> 
+            </th> 
+            <th>               <img                 src="https://res.cloudinary.com/practicaldev/image/fetch/s--2kDReLXZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://binima.com/wp-content/uploads/2018/05/css.jpg"                 height="50"                 width="50" 
+              /> 
+            </th> 
+            <th>               <img 
+                src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" 
+                height="50"                 width="50" 
+                style="float: left" 
+              /> 
+            </th> 
+           <th> 
+             <img     src="https://tse4.mm.bing.net/th?id=OIP.ykx4uSY43Mve8g9gvoZAsAHaH
+a&pid=Api&P=0"                 height="50"                 width="50" 
+                style="float: left" 
+              /> 
+            </th> 
+          </tr> 
+          <tr> 
+            <td>HTML</td> 
+            <td>CSS</td> 
+            <td>JAVSCRIPT</td> 
+            <td>PHP</td> 
+          </tr> 
+        </table> 
+      </div> 
+      <div class="last"> 
+        <table> 
+          <tr> 
+            <th></th> 
+            <th></th> 
+            <th></th> 
+          </tr> 
+ 
+          <tr> 
+            <td>               <img                 src="https://th.bing.com/th/id/OIP.34MEMM3PzRFWtt7sxndWLQHaD4?w=339&h=180&c=7&r=0&o=5&pid=1.7"                 height="100"                 width="100" 
+                style="border-radius: 80px" 
+              /> 
+            </td> 
+            <td>               <img                 src="https://th.bing.com/th/id/OIP.qkvDe2r17CId4Esi2T810gHaHa?w=185&h=185&c=7&r=0&o=5&pid=1.7" 
+               height="100"                width="100" 
+                style="border-radius: 80px" 
+ 
+  /> 
+  </td> 
+            <td> 
+              <img                 src="https://th.bing.com/th/id/OIP.S57xRzNQm2MP_ogctnSr8QAAAA?pid=ImgDet&rs=1"   height="100"    width="100"   style="border-radius: 80px"
+            </td> 
+          </tr> 
+ 
+          <tr> 
+            <td style="color: white"><h3>Mr.Rufus</h3></td> 
+            <td style="color: white"><h3>Mrs.Preetha</h3></td> 
+            <td style="color: white"><h3>Mr.Jack Roger</h3></td> 
+          </tr> 
+          <tr> 
+            <td> 
+              <b> 
+                Father refers to the male parent of a child in a family.<br>He is a very important member of the family.<br> He is the one who takes care of the entire family including his own parents, wife and children.<br> He earns his bread and butter for his family and tries his best to fulfil their needs and demands.</b> 
+              
+            </td> 
+            <td> 
+              <b>She is a great Home maker, a lovely friend, a strict parent.<br>Also, she takes cares of the need of the whole family.<br>If there is anyone out there who loves us more than our mother is only God.<br>Not just for my mother but for every mother out there who lives her life for her family deserves praiseworthy applause.</b> 
+               
+            </td> 
+            <td> 
+              <b>He is an intelligent boy and always scores good marks in his exams.<br>My brother is very polite by nature and is loved by one and all.<br>He often shares his chocolates, sweets and candies with me. He loves playing snakes and ladders and ludo with me during weekends.</b> 
+               
+</td> </tr> 
+        </table> 
+      </div> 
+      <div> 
+        <p style="background-color: Beige"> 
+          Karunya Nagar, Coimbatore, Tamil Nadu 641114<br />2021-2022 
+          URK20CS2010 - Web technology Lab batch-3.All Rights Reserved 
+        </p> 
+      </div> 
+    </div> 
+  </body> 
+</html> 
+     
+ 
+            <div class="head_div"> 
+                <div class="head_sub_div"> 
+                    <a href="https://www.facebook.com/" target = "_blank"><img src = "https://www.uua.org/files/styles/max_2400x2400_no_upscale/public/jpg/f/facebook-chicklet.jpg?itok=nzGytEZN" width="50" height="40"></a> 
+                    <a href="https://www.linkedin.com/in/sharon-r-644402209/" target = "_blank"><img src = "https://yt3.ggpht.com/a/AGF-l78UKMjzMY_5PjOE63fAbRCCkbFLq_sykeDdcw=s900-c-k-c0xffffffff-no-rj-mo" width="50" height="40"></a> 
+                    <a href="mailto:sharonrufus22@gmail.com" target = 
+"_blank"><img src = "https://th.bing.com/th/id/OIP._se4ELNeGxu2F6Yb0Vel-AHaEd?pid=ImgDet&rs=1" width="50" height="40"> 
+                    </a></div> 
+ 
+                <img src = "https://th.bing.com/th/id/R.531c5f7fdee7e6c732d7e798779b6fda?rik=hXxtTjEkSOcXEQ&riu=http%3a%2f%2fpalletloss.com.au%2fwp-content%2fuploads%2f2016%2f11%2fstockfresh_878302_web-technology_sizeS.jpg&ehk=mHV0rMoB2lWonpvOjfzuJZy0NA8XySo9rsgFqXxgk80%3d&risl=&pid=ImgRaw&r=0" width="150" height="180" align = 'left'> 
+                <div class = 'head-txt'> 
+                    <h1 align="center">Ms.SHARON </h1> 
+                </div> 
+                 
+ 
+              </div> 
+ 
+              <div class = "btn-group"> 
+                    <button style="width:20%"><b>Personal</b></button> 
+                    <button style="width:20%"><b>Academics</b></button> 
+                    <button style="width:20%"><b>Activity</b></button> 
+                    <button style="width:20%"><b>Others</b></button> 
+              </div> 
+ 
+              <div class = "mid-image"> 
+       <div class="mid-table"> 
+              Family: A family is a group of two or more persons 
+related by birth, marriage, or adoption who live together; all such related persons are considered as members of one family 
+                    </div> 
+              </div> 
+ 
+              <div class="back-color"> 
+                <div class = 'table'> 
+ 
+                    <table> 
+                        <tr> 
+                            <td><img src = "https://1.bp.blogspot.com/-NBvQoJVGIEU/XpSRW899qtI/AAAAAAAAA9M/5I0aS-7eXrQWYotZL7uyMkUJ0-8IbK1MgCLcBGAsYHQ/w800/PicsArt_04-13-09.18.29.png" width="130" height="130" ></td> 
+                            <td><img src = "https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/CSS3.jpg" width="150" height="130" ></td> 
+                            <td><img src = "https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="150" height="130" ></td> 
+                            <td><img src = "https://th.bing.com/th/id/R.4545e8932fa22af090e5a739e5518f17?rik=WomspZB3BaXFrg&riu=http%3a%2f%2fsdtimes.com%2fwp-content%2fuploads%2f2015%2f07%2f0715.sdt-php7.jpg&ehk=DzmJ%2fQhh9HsE1IRbbABFj%2bSdgHoAU%2bM5qpmYdQLfsYU%3d&risl=&pid=ImgRaw&r=0" width="150" height="130" ></td> 
+                        </tr> 
+                    </table> 
+                </div> 
+ 
+              </div> 
+ 
+              <div class="back-bot"> 
+                    <div class="table2"> 
+                        <table> 
+                            <tr> 
+ 
+                                <td><img src = "https://th.bing.com/th/id/OIP.H1q1slU4x7Ha2P4UQCPM5gHaH_?w=187&h=202&c=7&r=0&o=5&pid=1.7" width="150" height="150" style ="border-radius: 50%;" ></td> 
+                                <td><img src = "https://th.bing.com/th/id/OIP.snXxbrtqVQ0isWFz0qQ9SQHaHn?w=185&h=190&c=7&r=0&o=5&pid=1.7" width="150" height="150" style ="border-radius: 50%;" ></td> 
+                                <td><img src = "https://th.bing.com/th/id/OIP.36icWeGyH4p6eekpeMOIOgHaGx?w=196&h=180&c=7&r=0&o=5&pid=1.7" width="150" height="150" style ="border-radius: 50%;" ></td> 
+ 
+                            </tr> 
+                            <div class="font-table"> 
+                                <tr> 
+ 
+                       <td style = "font-family:Copperplate 
+Gothic;font-style:bold;font-weight:bolder;font-size:20px;color: black;">Mr.Rufus</td> 
+                                    <td style = "font-family:Copperplate Gothic;font-style:bold;font-weight:bolder;font-size:20px;color: black;">Mrs.Preetha</td> 
+                                    <td style = "font-family:Copperplate 
+Gothic;font-style:bold;font-weight:bolder;font-size:20px;color: black;">Mr.Jack Roger</td> 
+                                </tr> 
+                                <tr> 
+                                    <td align="center" style = "color: rgb(255, 255, 255);">It was my father who taught me to value myself. he told me that he was uncommonly beautiful and that i was the most precious thing in his life.</td>
+                                    <td align="center" style = "color: rgb(255, 255, 255);">My mother taught me that we all have the power to achieve our dream.</td> 
+                                    <td align="center" style = "color: rgb(255, 
+255, 255);">A sister is both your mirror - and your opposite.</td> 
+                                </tr> 
+                            </div> 
+ 
+                        </table> 
+                    </div> 
+             
+              </div> 
+              <div class="bottom"> 
+                Your address<br> 
+                @ 2021-2022.(URK20CS2010)-Web Technology Lab Batch 3. All rights 
+Reserved. 
+              </div> 
+    </body> 
+</html> 
